@@ -10,7 +10,7 @@ Integration and harmonization of open datasets on human postural sway
  - Kerkman J., Daffertshofer A., Boonstra T. (2018) Muscle activity, ground reaction forces and pointing performance during postural control tasks in healthy adults [Data set]. Zenodo. https://doi.org/10.5281/zenodo.1185196.  
  - Wang H., van den Bogert A. (2020) Standing Balance Experiment with Long Duration Random Pulses Perturbation (1.0) Zenodo. https://doi.org/10.5281/zenodo.3819630.
  - Sbrollini A., Agostini V., Cavallini C., Burattini L., Knaflitz M. (2020) Postural data from Stargardt's syndrome patients, Data in Brief, 30, 105452,  https://doi.org/10.1016/j.dib.2020.105452.  
- - Boari D. (2021). A dataset with ground reaction forces of human balance in Parkinson's disease. figshare. Dataset. https://doi.org/10.6084/m9.figshare.13530587.v6.  
+ - Boari D. (2021) A dataset with ground reaction forces of human balance in Parkinson's disease. figshare. Dataset. https://doi.org/10.6084/m9.figshare.13530587.v6.  
  - Loram I., Gollee H., van de Kamp C., Gawthrop P.J. (2022) Dataset accompanying publication "Is intermittent control the source of the nonlinear oscillatory component (0.2-2Hz) in human balance control?". https://doi.org/10.23634/MMUDR.00629266.  
 
 
