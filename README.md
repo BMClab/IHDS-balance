@@ -2,7 +2,7 @@
 
 Integration and harmonization of open datasets on human postural sway
 
-## Open datasets on human postural sway in processing [**I**ntegrated, **H**armonized]
+## Datasets in processing [**I**ntegrated, **H**armonized]
 
  1. [**I**] Santos D.A., Duarte M. (2016) A public data set of human balance evaluations. PeerJ, 4:e2648. <https://doi.org/10.7717/peerj.2648>  
  1. [**I**] Dos Santos D.A., Fukuchi C.A., Fukuchi R.K., Duarte M. (2017) A data set with kinematic and ground reaction forces of human balance. PeerJ, 5:e3626. <https://doi.org/10.7717/peerj.3626>  
